@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.a823160f.chunk.css",
-    "main.js": "/static/js/main.1e321276.chunk.js",
-    "main.js.map": "/static/js/main.1e321276.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.7c7336a3.js",
-    "runtime~main.js.map": "/static/js/runtime~main.7c7336a3.js.map",
-    "static/js/2.a0d23a6b.chunk.js": "/static/js/2.a0d23a6b.chunk.js",
-    "static/js/2.a0d23a6b.chunk.js.map": "/static/js/2.a0d23a6b.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.efdbfab328bc178e127a7fc0fcade492.js": "/precache-manifest.efdbfab328bc178e127a7fc0fcade492.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.a823160f.chunk.css.map": "/static/css/main.a823160f.chunk.css.map"
+    "main.css": "/TheLotto.React/static/css/main.a823160f.chunk.css",
+    "main.js": "/TheLotto.React/static/js/main.aa4a268f.chunk.js",
+    "main.js.map": "/TheLotto.React/static/js/main.aa4a268f.chunk.js.map",
+    "runtime~main.js": "/TheLotto.React/static/js/runtime~main.7a096b35.js",
+    "runtime~main.js.map": "/TheLotto.React/static/js/runtime~main.7a096b35.js.map",
+    "static/js/2.1ecc60aa.chunk.js": "/TheLotto.React/static/js/2.1ecc60aa.chunk.js",
+    "static/js/2.1ecc60aa.chunk.js.map": "/TheLotto.React/static/js/2.1ecc60aa.chunk.js.map",
+    "index.html": "/TheLotto.React/index.html",
+    "precache-manifest.dc37239771392d32002762331b83e832.js": "/TheLotto.React/precache-manifest.dc37239771392d32002762331b83e832.js",
+    "service-worker.js": "/TheLotto.React/service-worker.js",
+    "static/css/main.a823160f.chunk.css.map": "/TheLotto.React/static/css/main.a823160f.chunk.css.map"
   }
 }
